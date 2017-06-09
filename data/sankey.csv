@@ -1,5 +1,38 @@
 bachelor,master,value
-B Biologie,M Computational Science (jd),1
+AUC,B Liberal Arts & Sciences (jd),3
+AUC,B Liberal Arts and Sciences,2
+FEB,B Econometrie en Op. Research,9
+FEB,B Economie en bedrijfskunde,20
+FDG,B Geneeskunde,1
+FDG,B Medische Informatiekunde,2
+FGW,B Geschiedenis,2
+FGW,B Kunstgeschiedenis,1
+FGW,B Nederlandse tc,3
+FGW,B Wijsbegeerte,2
+FGW,B Taalwetenschap,1
+FGW,B Spaanse tc,1
+FGW,B Media en informatie,2
+FGW,B Engelse tc,2
+FGW,B Media en cultuur,13
+FDR,B Rechtsgeleerdheid,1
+FDR,B Fiscaal Recht,1
+FMG,B Politicologie,2
+FMG,B Cult antrop & ontw. sociolog,1
+FMG,B Sociologie,2
+FMG,B Europese Studies,2
+FMG,B Psychologie,14
+FMG,B Algemene Sociale Wetenschap,1
+FMG,B Soc. Geografie en Planologie,2
+FMG,B Communicatiewetenschap,2
+FNWI,B Biomedische wetenschappen,3
+FNWI,B Natuur- en sterrenkunde,11
+FNWI,B Psychobiologie,13
+FNWI,B Wiskunde,7
+FNWI,B Beta-gamma,12
+FNWI,B Future Planet Studies,3
+FNWI,B Biologie,4
+FNWI,B Aardwetenschappen,2
+B Biologie,M Computational Science,1
 B Biologie,M Information Studies,2
 B Biologie,M Artificial Intelligence,1
 B Liberal Arts and Sciences,M Artificial Intelligence,2
@@ -23,8 +56,7 @@ B Nederlandse tc,M Software Engineering,1
 B Wijsbegeerte,M Artificial Intelligence,1
 B Wijsbegeerte,M Logic,1
 B Beta-gamma,M Information Studies,2
-B Beta-gamma,M Computational Science (jd),5
-B Beta-gamma,M Computational Science,1
+B Beta-gamma,M Computational Science,6
 B Beta-gamma,M Artificial Intelligence,2
 B Beta-gamma,M Logic,1
 B Beta-gamma,M Software Engineering,1
@@ -38,19 +70,17 @@ B Aardwetenschappen,M Computational Science,1
 B Politicologie,M Information Studies,2
 B Sociologie,M Information Studies,1
 B Sociologie,M Software Engineering,1
-B Natuur- en sterrenkunde,M Computational Science (jd),4
+B Natuur- en sterrenkunde,M Computational Science,6
 B Natuur- en sterrenkunde,M Artificial Intelligence,3
 B Natuur- en sterrenkunde,M Software Engineering,1
-B Natuur- en sterrenkunde,M Computational Science,2
 B Natuur- en sterrenkunde,M System & Network Engineering,1
-B Psychologie,M Computational Science (jd),1
+B Psychologie,M Computational Science,1
 B Psychologie,M Artificial Intelligence,7
 B Psychologie,M Information Studies,6
 B Liberal Arts & Sciences (jd),M Artificial Intelligence,2
 B Liberal Arts & Sciences (jd),M Information Studies,1
-B Psychobiologie,M Computational Science (jd),3
+B Psychobiologie,M Computational Science,7
 B Psychobiologie,M Artificial Intelligence,4
-B Psychobiologie,M Computational Science,4
 B Psychobiologie,M Information Studies,2
 B Future Planet Studies,M Artificial Intelligence,1
 B Future Planet Studies,M Software Engineering,1
@@ -67,9 +97,8 @@ B Europese Studies,M Artificial Intelligence,1
 B Europese Studies,M Software Engineering,1
 B Kunstgeschiedenis,M Artificial Intelligence,1
 B Taalwetenschap,M Artificial Intelligence,1
-B Wiskunde,M Computational Science (jd),3
+B Wiskunde,M Computational Science,6
 B Wiskunde,M Artificial Intelligence,1
-B Wiskunde,M Computational Science,3
 B Medische Informatiekunde,M Artificial Intelligence,1
 B Medische Informatiekunde,M Computational Science,1
 B Spaanse tc,M Artificial Intelligence,1
