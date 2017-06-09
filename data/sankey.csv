@@ -1,132 +1,82 @@
 bachelor,master,value
-B Pedagogische wetenschappen,No Master,2
-B Bio-exact,No Master,1
-B Scheikunde (jd),No Master,16
-B Biologie,No Master,21
-B Biologie,M Artificial Intelligence,1
 B Biologie,M Computational Science (jd),1
-B Biologie,M Information Studies,1
-B Liberal Arts and Sciences,No Master,3
+B Biologie,M Information Studies,2
+B Biologie,M Artificial Intelligence,1
 B Liberal Arts and Sciences,M Artificial Intelligence,2
-B Geneeskunde,No Master,6
 B Geneeskunde,M Artificial Intelligence,1
-B Notarieel Recht,No Master,1
-B Scandinavische tc,No Master,2
-B Soc. Geografie en Planologie,No Master,3
 B Soc. Geografie en Planologie,M Computer Science (jd),1
-B Fiscale economie,No Master,2
-B Scheikunde,No Master,32
-B Communicatiewetenschap,No Master,13
+B Soc. Geografie en Planologie,M Computational Science,1
 B Communicatiewetenschap,M Information Studies,1
 B Communicatiewetenschap,M Artificial Intelligence,1
-B Economie en bedrijfskunde,No Master,74
 B Economie en bedrijfskunde,M Information Studies,8
 B Economie en bedrijfskunde,M Computer Science (jd),2
 B Economie en bedrijfskunde,M Computational Science,1
 B Economie en bedrijfskunde,M Artificial Intelligence,5
 B Economie en bedrijfskunde,M Logic,1
 B Economie en bedrijfskunde,M Software Engineering,3
-B Biomedische wetenschappen,No Master,10
 B Biomedische wetenschappen,M Artificial Intelligence,2
 B Biomedische wetenschappen,M Information Studies,1
-B Griekse en Latijnse tc,No Master,2
-B Engelse tc,No Master,3
 B Engelse tc,M Information Studies,2
-B Nederlandse tc,No Master,2
 B Nederlandse tc,M Artificial Intelligence,1
 B Nederlandse tc,M Information Studies,1
-B Archeologie en prehistorie,No Master,2
-B Wijsbegeerte,No Master,8
+B Nederlandse tc,M Software Engineering,1
 B Wijsbegeerte,M Artificial Intelligence,1
 B Wijsbegeerte,M Logic,1
-B Natuurwetenschappen,No Master,1
-B Beta-gamma,No Master,82
 B Beta-gamma,M Information Studies,2
 B Beta-gamma,M Computational Science (jd),5
 B Beta-gamma,M Computational Science,1
 B Beta-gamma,M Artificial Intelligence,2
 B Beta-gamma,M Logic,1
 B Beta-gamma,M Software Engineering,1
-B Algemene Sociale Wetenschap,No Master,5
 B Algemene Sociale Wetenschap,M Information Studies,1
-B ActuariÙle Wetenschappen,No Master,4
-B Media en cultuur,No Master,52
 B Media en cultuur,M Information Studies,10
 B Media en cultuur,M Computer Science (jd),1
 B Media en cultuur,M Software Engineering,1
 B Media en cultuur,M Artificial Intelligence,1
-B Aardwetenschappen,No Master,5
 B Aardwetenschappen,M Information Studies,1
-B Theaterwetenschap,No Master,1
-B Politicologie,No Master,11
+B Aardwetenschappen,M Computational Science,1
 B Politicologie,M Information Studies,2
-B Italiaanse tc,No Master,1
-B Sociologie,No Master,3
+B Sociologie,M Information Studies,1
 B Sociologie,M Software Engineering,1
-B Muziekwetenschap,No Master,2
-B Latijnse tc,No Master,2
-B Natuur- en sterrenkunde,No Master,82
 B Natuur- en sterrenkunde,M Computational Science (jd),4
-B Natuur- en sterrenkunde,M Computational Science,2
-B Natuur- en sterrenkunde,M System & Network Engineering,1
 B Natuur- en sterrenkunde,M Artificial Intelligence,3
 B Natuur- en sterrenkunde,M Software Engineering,1
-B Arabische tc,No Master,1
-B Natuur- en Sterrenkunde (jd),No Master,9
-B Sociale wetenschappen,No Master,1
-B Onderwijskunde,No Master,3
-B Psychologie,No Master,42
-B Psychologie,M Artificial Intelligence,7
+B Natuur- en sterrenkunde,M Computational Science,2
+B Natuur- en sterrenkunde,M System & Network Engineering,1
 B Psychologie,M Computational Science (jd),1
+B Psychologie,M Artificial Intelligence,7
 B Psychologie,M Information Studies,6
-B Liberal Arts & Sciences (jd),No Master,9
 B Liberal Arts & Sciences (jd),M Artificial Intelligence,2
 B Liberal Arts & Sciences (jd),M Information Studies,1
-B Psychobiologie,No Master,70
 B Psychobiologie,M Computational Science (jd),3
-B Psychobiologie,M Information Studies,2
-B Psychobiologie,M Computational Science,4
 B Psychobiologie,M Artificial Intelligence,4
-B Informatiekunde BSc,No Master,68
-B Informatiekunde BSc,M Information Studies,23
+B Psychobiologie,M Computational Science,4
+B Psychobiologie,M Information Studies,2
 B Informatiekunde BSc,M Computational Science (jd),1
+B Informatiekunde BSc,M Information Studies,23
+B Informatiekunde BSc,M Software Engineering,1
 B Informatiekunde BSc,M Computational Science,1
 B Informatiekunde BSc,M Artificial Intelligence,1
-B Informatiekunde BSc,M Software Engineering,1
-B Future Planet Studies,No Master,20
 B Future Planet Studies,M Artificial Intelligence,1
 B Future Planet Studies,M Software Engineering,1
 B Future Planet Studies,M Information Studies,1
-B Econometrie en Op. Research,No Master,49
 B Econometrie en Op. Research,M Artificial Intelligence,3
 B Econometrie en Op. Research,M Computer Science (jd),1
 B Econometrie en Op. Research,M Information Studies,1
 B Econometrie en Op. Research,M Software Engineering,4
-B Fiscaal Recht,No Master,2
 B Fiscaal Recht,M Artificial Intelligence,1
-B Geschiedenis,No Master,1
 B Geschiedenis,M Information Studies,1
 B Geschiedenis,M Software Engineering,1
-B Cult antrop & ontw. sociolog,No Master,2
-B Europese Studies,No Master,2
+B Cult antrop & ontw. sociolog,M Information Studies,1
 B Europese Studies,M Artificial Intelligence,1
 B Europese Studies,M Software Engineering,1
-B Kunstgeschiedenis,No Master,4
 B Kunstgeschiedenis,M Artificial Intelligence,1
-B Taalwetenschap,No Master,4
 B Taalwetenschap,M Artificial Intelligence,1
-B Tandheelkunde,No Master,2
-B Wiskunde,No Master,33
-B Wiskunde,M Artificial Intelligence,1
 B Wiskunde,M Computational Science (jd),3
+B Wiskunde,M Artificial Intelligence,1
 B Wiskunde,M Computational Science,3
-B Medische Informatiekunde,No Master,2
 B Medische Informatiekunde,M Artificial Intelligence,1
 B Medische Informatiekunde,M Computational Science,1
-B Spaanse tc,No Master,5
 B Spaanse tc,M Artificial Intelligence,1
-B Rechtsgeleerdheid,No Master,18
 B Rechtsgeleerdheid,M Information Studies,1
-B Media en informatie,No Master,2
 B Media en informatie,M Artificial Intelligence,2
-B Literatuurwetenschap,No Master,1
