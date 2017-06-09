@@ -40,7 +40,7 @@
 <p id="chart">
 
 <script src="https://d3js.org/d3.v3.min.js"></script>
-<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<script src="https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script src="sankey.js"></script>
 <script>
 
@@ -127,12 +127,6 @@ d3.csv("data/sankey.csv", function(error, data) {
       .style("stroke-width", function(d) { return Math.max(1, d.dy); })
       .sort(function(a, b) { return b.dy - a.dy; });
 
-// // add the link titles
-//   link.append("title")
-//         .text(function(d) {
-//         return d.source.name + " → " +
-//                 d.target.name + "\n" + format(d.value); });
-
 // add tooltip
   link.on('mouseover', tip.show).on('mouseout', tip.hide);
 
@@ -162,18 +156,15 @@ d3.csv("data/sankey.csv", function(error, data) {
       .text(function(d) {
       return d.name + "\n" + format(d.value); });
 
-  // node.append("circle")
-  //     .attr("cx", 0)
-  //     .attr("cy", 0)
-  //     .attr("r", 15)
-  //     .style("fill", "red")
-
+// array for all possible Masters
   var masters = ["#M\\ Artificial\\ Intelligence", "#M\\ Information\\ Studies", "#M\\ Logic", "#M\\ Software\\ Engineering", "#M\\ Computer\\ Science\\ \\(jd\\)", "#M\\ Computational\\ Science", "#M\\ System\\ \\&\\ Network\\ Engineering"]
 
+// function to allways return at least 2 digits
   function pad2(number) {
      return (number < 10 ? '0' : '') + number
   }
 
+// run through all g elements and append circles with value
   for (var i = masters.length - 1; i >= 0; i--) {
     var g_elem = d3.select(masters[i]);
     var rect = g_elem.select("rect");
