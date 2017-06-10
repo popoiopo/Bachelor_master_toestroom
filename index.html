@@ -173,12 +173,13 @@ d3.csv("data/sankey.csv", function(error, data) {
     var circle = g_elem.append("circle").attr("cx", cx_circle)
                           .attr("cy", cy_circle)
                           .attr("r", 15)
-                          .style("fill", "#CC0066");
+                          .style("fill", "#CC0066")
+                          .style("stroke", function(d) {return d3.rgb(d.color).darker(2); });
     var text = g_elem.append("text").attr("x", cx_circle/2 + 1)
                                     .attr("y", cy_circle + 1)
                                     .attr("dy", ".15em")
                                     .style("fill", "white")
-                                    .text(function(d){return pad2(d.value)});
+                                    .text(function(d){console.log(pad2(d.value)); return pad2(d.value)});
   }
 
 // add in the title for the nodes
